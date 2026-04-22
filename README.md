@@ -22,3 +22,4 @@ PostgreSQL 18 | pgAdmin 4
 ## Files
 - `workforce_intelligence.sql` — all queries with comments
 - `employees.csv` — simulated dataset (50 employees)
+- [Workforce Intelligence Dashboard](Workforce_Intelligence_Dashboard.png)
